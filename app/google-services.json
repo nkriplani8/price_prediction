@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "184605209563",
+    "firebase_url": "https://housingpriceprediction.firebaseio.com",
+    "project_id": "housingpriceprediction",
+    "storage_bucket": "housingpriceprediction.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:184605209563:android:ec1b24afdd1fd20d45edfe",
+        "android_client_info": {
+          "package_name": "com.example.priceprediction"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "184605209563-84tcvcodfivr59cffvvn0633s5nbp1u2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEu1h2weomFOyGuRxwwFvfcSgpcWTExZc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "184605209563-84tcvcodfivr59cffvvn0633s5nbp1u2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
