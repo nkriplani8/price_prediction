@@ -12,6 +12,8 @@
         android:layout_height="33dp"
         android:layout_marginBottom="92dp"
         android:text="TextView"
+        android:textColor="#450202"
+        android:textSize="16dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.497"
@@ -58,10 +60,11 @@
 
     <Button
         android:id="@+id/predict"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_width="230dp"
+        android:layout_height="49dp"
         android:layout_marginBottom="196dp"
-        android:text="Button"
+        android:background="@drawable/button_background"
+        android:text="Predict price"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.436"
