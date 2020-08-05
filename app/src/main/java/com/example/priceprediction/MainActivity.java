@@ -79,15 +79,15 @@ public class MainActivity extends AppCompatActivity {
         mu = mu/47;
         mu1 = mu1/47;
 
-        sigma = 794.702354;
-        sigma1 = 0.760982;
+        //sigma = 794.702354;
+        //sigma1 = 0.760982;
 
-        /*for (int i = 0; i < 47; i++)
+        for (int i = 0; i < 47; i++)
         {
             sigma += (Math.pow(arr[i][0] - mu,2) / 47);
             sigma1 += (Math.pow(arr[i][1] - mu1,2) / 47);
         }
-        sigma = Math.round(Math.sqrt(sigma));
+        /*sigma = Math.round(Math.sqrt(sigma));
         sigma1 = Math.round(Math.sqrt(sigma1));
 
 
